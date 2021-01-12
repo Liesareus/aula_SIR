@@ -1,3 +1,4 @@
+install.packages("shinySIR")
 library(shinySIR)
 
 
